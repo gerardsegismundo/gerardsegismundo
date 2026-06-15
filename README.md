@@ -1,3 +1,7 @@
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/f8691089-0f05-42bd-ab49-8fc35d4e7b2d" />
+
+
+
 # Cloud / DevSecOps Engineer
 
 Building secure, scalable cloud platforms and automation systems on AWS with a focus on reliability, security, and developer productivity.
