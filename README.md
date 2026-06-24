@@ -70,11 +70,9 @@ Strong emphasis on building repeatable systems that scale across environments an
 
 ## 🏅 Certifications
 
-(<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b01bd4e6-aeb6-4680-8e21-7df9d50c8189" />
-[https://www.credly.com/badges/3ce19a53-2d41-4549-a820-ba814b12c5d4])
+[<img width="200" height="200" alt="AWS AI Practitioner" src="https://github.com/user-attachments/assets/74f7c9df-0ae6-4000-a0f5-a9f9a3e70009" />](https://www.credly.com/badges/3ce19a53-2d41-4549-a820-ba814b12c5d4)
 
-* AWS Certified AI Practitioner
-  🔗 https://www.credly.com/badges/ffb59f3a-9aff-4966-b038-db13b846aca4
+[<img width="200" height="200" alt="AWS Cloud Practitioner" src="https://github.com/user-attachments/assets/503946eb-918f-46c9-af54-97c2ef02fd1c" />](https://www.credly.com/badges/ffb59f3a-9aff-4966-b038-db13b846aca4)
 
 ---
 
