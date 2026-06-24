@@ -70,7 +70,8 @@ Strong emphasis on building repeatable systems that scale across environments an
 
 ## 🏅 Certifications
 
-[<img width="50" height="50" alt="ai_practitioner 1" src="https://github.com/user-attachments/assets/87dd1397-f250-466c-8a6d-7704a44eb27c" />](https://www.credly.com/badges/3ce19a53-2d41-4549-a820-ba814b12c5d4)[<img width="50" height="50" alt="cloud_practitioner 1" src="https://github.com/user-attachments/assets/a62d6c65-93e5-4999-ac55-6e888f938b26" />](https://www.credly.com/badges/ffb59f3a-9aff-4966-b038-db13b846aca4)
+[<img width="100" height="100" alt="ai_practitioner 1" src="https://github.com/user-attachments/assets/87dd1397-f250-466c-8a6d-7704a44eb27c" />](https://www.credly.com/badges/ffb59f3a-9aff-4966-b038-db13b846aca4)[<img width="100" height="100" alt="cloud_practitioner 1" src="https://github.com/user-attachments/assets/a62d6c65-93e5-4999-ac55-6e888f938b26" />](https://www.credly.com/badges/3ce19a53-2d41-4549-a820-ba814b12c5d4)
+
 
 
 
