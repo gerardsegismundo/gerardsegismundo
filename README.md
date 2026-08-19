@@ -1,11 +1,3 @@
-<a href="https://gitascii.com">
-  <img
-    src="https://gitascii.com/api/gerardsegismundo?v=1787121202531"
-    alt="GitAscii Widget"
-    width="100%"
-  />
-</a>
-
 # Cloud / DevSecOps Engineer
 
 Building secure, scalable cloud platforms and automation systems on AWS with a focus on reliability, security, and developer productivity.
