@@ -95,3 +95,11 @@ Strong emphasis on building repeatable systems that scale across environments an
 * Scalable Infrastructure Design
 * Secure CI/CD Systems
 * Production-grade AWS architectures
+
+<a href="https://gitascii.com">
+  <img
+    src="https://gitascii.com/api/gerardsegismundo?v=1787121202531"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
