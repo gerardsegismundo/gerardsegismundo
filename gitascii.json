@@ -193,7 +193,8 @@
     "borderRadius": 8,
     "padding": 24,
     "themeMode": "dark",
-    "templateStyle": "dracula"
+    "templateStyle": "dracula",
+    "transparentBackground": false
   },
   "templateId": "dracula"
 }
