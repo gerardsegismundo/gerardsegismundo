@@ -4,7 +4,7 @@
       "widgetId": "header",
       "position": {
         "x": 0,
-        "y": 8
+        "y": 0
       },
       "size": {
         "width": 800,
@@ -23,7 +23,7 @@
       "widgetId": "bio",
       "position": {
         "x": 0,
-        "y": 112
+        "y": 120
       },
       "size": {
         "width": 800,
@@ -41,106 +41,12 @@
       "name": "Bio Widget"
     },
     {
-      "widgetId": "tech-stack",
-      "position": {
-        "x": 0,
-        "y": 272
-      },
-      "size": {
-        "width": 800,
-        "height": 140
-      },
-      "config": {
-        "selectedTechs": [
-          "js",
-          "html",
-          "css",
-          "py",
-          "ts",
-          "sass",
-          "bash",
-          "docker",
-          "java",
-          "vue",
-          "kubernetes",
-          "aws",
-          "terraform",
-          "githubactions",
-          "nextjs",
-          "mongodb",
-          "mysql",
-          "git",
-          "github",
-          "azure",
-          "linux",
-          "figma",
-          "postman",
-          "vscode",
-          "ansible",
-          "prometheus",
-          "npm",
-          "express",
-          "nodejs",
-          "postgres",
-          "redis",
-          "prisma"
-        ],
-        "customTitle": "",
-        "theme": "light",
-        "perLine": 16,
-        "hideBorder": true
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 4,
-      "instanceId": "widget_1787118181470_3",
-      "name": "Tech-stack Widget"
-    },
-    {
-      "widgetId": "github-readme-stats",
-      "position": {
-        "x": 0,
-        "y": 444
-      },
-      "size": {
-        "width": 390,
-        "height": 210
-      },
-      "config": {
-        "hideBorder": true
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 5,
-      "instanceId": "widget_1787118181470_4",
-      "name": "Github-readme-stats Widget"
-    },
-    {
-      "widgetId": "streak-stats",
-      "position": {
-        "x": 410,
-        "y": 444
-      },
-      "size": {
-        "width": 390,
-        "height": 210
-      },
-      "config": {
-        "hideBorder": true
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1787118181470_5",
-      "name": "Streak-stats Widget"
-    },
-    {
       "instanceId": "widget_1787118261776",
       "widgetId": "asciiprofile-heatmap",
       "name": "Asciiprofile-heatmap Widget",
       "position": {
         "x": 0,
-        "y": 686
+        "y": 304
       },
       "size": {
         "width": 800,
@@ -170,14 +76,15 @@
       "name": "Godprofile-neural Widget",
       "position": {
         "x": 0,
-        "y": 958
+        "y": 568
       },
       "size": {
         "width": 800,
         "height": 320
       },
       "config": {
-        "accentColor": "#b6a891"
+        "accentColor": "#ffb800",
+        "backgroundColor": "#ff4a4a"
       },
       "locked": false,
       "visible": true,
